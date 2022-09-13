@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Aakash-Rajbhar
-- 👀 I’m interested in AI, Web Development, cyber securities..
-- 🌱 I’m currently learning Python
+- 👋 Hey, I’m @Aakash-Rajbhar
+- 👀 I’m interested in Computer scince
+- 🌱 Currently learning Python
 - 💞️ I’m looking to learn javascript
-- 📫 How to reach me : https://www.instagram.com/aakashrajbhar25/
+- ⌨  Working as a photo editor, simple web developer, content writer.
+- ✔  You can hire me for freelancing
+- 📫 Contact Me: https://www.instagram.com/aakashrajbhar25/
 
 <!---
 Aakash-Rajbhar/Aakash-Rajbhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
