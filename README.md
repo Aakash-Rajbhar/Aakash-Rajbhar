@@ -1,7 +1,6 @@
 - 👋 Hey, I’m @Aakash-Rajbhar
-- 👀 I’m interested in Computer scince
-- 🌱 Currently learning Python
-- 💞️ I’m looking to learn javascript
+- 👀 I’m interested in Coding
+- 💻 Currently learning web development
 - ⌨  Working as a photo editor, simple web developer, content writer.
 - ✔  You can hire me for freelancing
 - 📫 Contact Me: https://www.instagram.com/aakashrajbhar25/
