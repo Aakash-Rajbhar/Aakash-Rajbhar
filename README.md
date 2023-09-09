@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+<! ---  ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif) 
 
 <h1 align="center">Hy! 👋, I'm Aakash Rajbhar</h1>
 <h3 align="center">**Building the Web, One Line of Code at a Time**</h3>
