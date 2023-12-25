@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Html, CSS, JS, React & Java**
   
-- 👨‍💻 Here's My Portfolio [aakashrajbhar.vercel.app](aakashrajbhar.vercel.app)
+- 👨‍💻 Here's My Portfolio [aakashrajbhar.vercel.app](https://aakashrajbhar.vercel.app)
 
 - 📫 How to reach me **akash.kumarajbhar@gmail.com**
 
