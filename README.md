@@ -7,7 +7,7 @@
 
 - 🌱 I'm a Front-End Developer, based in India
 
-- 💬 Ask me about **Html, CSS, JS, React & Java**
+- 💬 Ask me about **Html, CSS, JS, React & Front-End**
   
 - 👨‍💻 Here's My Portfolio [aakashrajbhar.vercel.app](https://aakashrajbhar.vercel.app)
 
