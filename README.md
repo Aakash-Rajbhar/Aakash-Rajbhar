@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash-rajbhar&label=Profile%20views&color=0e75b6&style=flat" alt="aakash-rajbhar" /> </p>
 <img align="right" width=400 alt="coding-gif" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🌱 I'm a Front-End Developer, based in India
+- 🌱 I'm a Full-Stack Developer, based in India
 
-- 💬 Ask me about **Html, CSS, JS, React & Front-End**
+- 💬 Ask me about **Web Development**
   
 - 👨‍💻 Here's My Portfolio [aakashrajbhar.netlify.app](https://aakashrajbhar.netlify.app)
 
